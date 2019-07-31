@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/fab2190/IdeaProjects/UnitTest/src/main/scala/ReferentielClientWrapper.scala:6:31: not enough arguments for method apply: (nom: String, prenom: String, dateNaissance: String, idGroup1: Int, idGroup2: Int)Personne in object Personne.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters idGroup1, idGroup2.[0m
+[0m[[0m[31merror[0m] [0m[0m    Future.successful(Personne("David", "Mencarelli", "12-12-1984"))[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
