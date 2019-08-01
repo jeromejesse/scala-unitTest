@@ -1,0 +1,2 @@
+default: https://repo1.maven.org/maven2/
+atricore: http://repository.atricore.org/m2-release-repository/
